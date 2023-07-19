@@ -31,6 +31,10 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -98,6 +102,12 @@
   <action id="FileChooser.TogglePathBar" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="Flutter.JumpToSource" />
   <action id="Generate">
@@ -156,12 +166,14 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="Move" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt n" />
     <keyboard-shortcut first-keystroke="alt #100015f" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="NavBar-navigate" />
+  <action id="NextDiff" />
   <action id="OpenInRightSplit">
     <mouse-shortcut keystroke="alt button1 doubleClick" />
   </action>
@@ -214,6 +226,10 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -224,13 +240,14 @@
     <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="ctrl quotedbl" />
   </action>
+  <action id="StepInto" />
   <action id="StepOver" />
-  <action id="StretchSplitToRight">
-    <keyboard-shortcut first-keystroke="alt m" />
-  </action>
   <action id="SwitchHeaderSource" />
   <action id="Table-startEditing" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="Tree-startEditing" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt #10000c7" />
