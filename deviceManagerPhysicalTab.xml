@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-d6iraaeuhmzpukai-Yycjv4._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 8 Pro" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
