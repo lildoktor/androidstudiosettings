@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
   <action id="Android.Designer.IssuePanel.QuickFixes">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -35,6 +38,7 @@
   <action id="CollapseSelection">
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -147,10 +151,12 @@
   <action id="GotoNextBookmarkInEditor">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
     <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
   </action>
   <action id="GotoNextError" />
   <action id="GotoPreviousBookmarkInEditor">
     <keyboard-shortcut first-keystroke="alt y" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
@@ -231,6 +237,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -249,6 +256,7 @@
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="Tree-startEditing" />
   <action id="Unsplit">
