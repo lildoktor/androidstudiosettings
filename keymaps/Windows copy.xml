@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="Android.Designer.IssuePanel.QuickFixes">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -31,6 +35,7 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="#100015f" />
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
@@ -185,6 +190,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
@@ -196,6 +205,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
   <action id="SetShortcutAction">
     <keyboard-shortcut first-keystroke="alt enter" />
